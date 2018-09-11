@@ -13,7 +13,8 @@
 	color: #fff;
 }
 
-.react-hint:after {
+// Remove triangle from bubble
+/* .react-hint:after {
 	content: '';
 	width: 0;
 	height: 0;
@@ -25,7 +26,7 @@
 	right: 0;
 	bottom: 0;
 	border: 5px solid transparent;
-}
+} */
 
 .react-hint--top:after {
 	top: auto;
